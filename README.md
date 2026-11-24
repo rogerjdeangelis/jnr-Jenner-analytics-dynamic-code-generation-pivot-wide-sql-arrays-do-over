@@ -5,8 +5,11 @@ Jenner Analytics dynamic code generation with enhanced array and do over macro
     ---*/
 
     Jenner Analytics dynamic code generation with enhanced array and do over macro
+    
+    Too long to post; see
+    https://github.com/rogerjdeangelis/jnr-Jenner-analytics-dynamic-code-generation-pivot-wide-sql-arrays-do-over
 
-    Pivot student semester grades from a long table to wide table
+    Pivot student semester grades from a long table to a wide table
 
     Obs TERM STUDENT SCORE   STUDENT SCORE1 SCORE2 SCORE3
      1    1     A      77      A         77     89     71
